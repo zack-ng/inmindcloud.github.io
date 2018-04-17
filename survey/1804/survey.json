@@ -1,5 +1,8 @@
 {
 	"forceVisible": true,
+	"title" : {
+	"en" : "Improving our App"	
+	},
 	"content": [{
 			"title": {
 				"en": "What do you think of this survey?"
