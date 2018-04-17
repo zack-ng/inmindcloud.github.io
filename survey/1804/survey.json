@@ -1,45 +1,63 @@
 {
 	"forceVisible": true,
 	"content": [{
-			"title": "What do you think of this survey?",
-      "id" : "question1",
+			"title": {
+				"en": "What do you think of this survey?"
+			},
+			"id": "question1",
 			"type": "select",
 			"choice": [{
-					"title": "Excellent",
+					"title": {
+						"en": "Excellent"
+					},
 					"value": "excellent"
 				},
 				{
-					"title": "Outstanding",
+					"title": {
+						"en": "Outstanding"
+					},
 					"value": "outstanding"
 				},
 				{
-					"title": "Great",
+					"title": {
+						"en": "Great"
+					},
 					"value": "great"
 				}
 			]
 		},
 		{
-			"title": "What do you think of doing another survey?",
-      "id" : "question2",
+			"title": {
+				"en": "What do you think of doing another survey?"
+			},
+			"id": "question2",
 			"type": "select",
 			"choice": [{
-					"title": "Lets do it!",
+					"title": {
+						"en": "Lets do it!"
+					},
 					"value": "lets_do_it"
 				},
 				{
-					"title": "Bring it on",
+					"title": {
+						"en": "Bring it on"
+					},
 					"value": "bring_it_on"
 				},
 				{
-					"title": "Nah",
+					"title": {
+						"en": "Nah"
+					},
 					"value": "no"
 				}
 			]
-			
+
 		},
-    {
-			"title": "What is your hobby?",
-      "id" : "question3",
+		{
+			"title": {
+				"en": "What is your hobby?"
+			},
+			"id": "question3",
 			"type": "text"
 		}
 	]
